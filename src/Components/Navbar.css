@@ -1,0 +1,52 @@
+
+
+.navbar{
+    position: fixed;
+    top:0;
+    width:100%;
+    height:50px;
+    justify-content: space-between;
+    background-color: #111;
+}
+.logo{
+position:fixed;
+left:20px;
+width:80px;
+top:10px;
+
+
+}
+.avatar{
+position:fixed;
+right:20px;
+width:30px;
+top: 10px;
+}
+
+.button_signIn{
+    position:fixed;
+    right:150px;
+    color:white;
+    background-color:red;
+    height:40px;
+    width:100px;
+    padding: 10px;
+    margin-right: 70px;
+    font-size: medium;
+    font-weight: bold;
+    border-radius: 5px;
+    top:5px;
+}
+.button_signUp{
+    position:fixed;
+    right:100px;
+    color:white;
+    background-color: red;
+    height:40px;
+    width:100px;
+    padding: 10px;
+    font-size: medium;
+    font-weight: bold;
+    top:5px;
+    border-radius: 5px;
+}
