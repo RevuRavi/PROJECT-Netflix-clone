@@ -1,1 +1,1 @@
-# Project1-Netflix-clone
+# Project-Netflix-clone
